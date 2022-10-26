@@ -1,0 +1,21 @@
+body {
+    background-color: wheat;
+}
+
+button {
+    background-color: seagreen;
+    border: 5px outset steelblue;
+    color: azure;
+    font-size: 20px;
+    height: 100px;
+    margin: 10px 50px;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 200px;
+}
+
+li {
+    font-size: 25px;
+    margin: 10px 50px;
+}
